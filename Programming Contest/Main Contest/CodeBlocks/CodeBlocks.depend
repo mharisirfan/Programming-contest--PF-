@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1560168988 source:z:\programing fundamentals\theory\projects\mini project 3\main contest\codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tasks.h"
+	"auto_grader.h"
+
+1560165762 z:\programing fundamentals\theory\projects\mini project 3\main contest\codeblocks\tasks.h
+
+1560165778 z:\programing fundamentals\theory\projects\mini project 3\main contest\codeblocks\auto_grader.h
+
+1560217515 source:z:\programing fundamentals\theory\projects\mini project 3\main contest\codeblocks\tasks.c
+	<stdio.h>
+	<stdlib.h>
+	"tasks.h"
+
+1560218112 source:e:\programming contest\main contest\codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tasks.h"
+	"auto_grader.h"
+
+1560165762 e:\programming contest\main contest\codeblocks\tasks.h
+
+1560165778 e:\programming contest\main contest\codeblocks\auto_grader.h
+
+1560242759 source:e:\programming contest\main contest\codeblocks\tasks.c
+	<stdio.h>
+	<stdlib.h>
+	"tasks.h"
+
+1560218112 source:c:\users\hp\desktop\semester 2\programming fundamentals\programming fundamental semester 2\projects\programming contest\main contest\codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tasks.h"
+	"auto_grader.h"
+
+1560165762 c:\users\hp\desktop\semester 2\programming fundamentals\programming fundamental semester 2\projects\programming contest\main contest\codeblocks\tasks.h
+
+1560165778 c:\users\hp\desktop\semester 2\programming fundamentals\programming fundamental semester 2\projects\programming contest\main contest\codeblocks\auto_grader.h
+
+1560370392 source:c:\users\hp\desktop\semester 2\programming fundamentals\programming fundamental semester 2\projects\programming contest\main contest\codeblocks\tasks.c
+	<stdio.h>
+	<stdlib.h>
+	"tasks.h"
+
+1560218112 source:c:\users\hp\desktop\semester 2\programming fundamentals\programming fundamental semester 2\projects\haris-hassnain miniproject 4\programming contest\main contest\codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"tasks.h"
+	"auto_grader.h"
+
+1560165762 c:\users\hp\desktop\semester 2\programming fundamentals\programming fundamental semester 2\projects\haris-hassnain miniproject 4\programming contest\main contest\codeblocks\tasks.h
+
+1560165778 c:\users\hp\desktop\semester 2\programming fundamentals\programming fundamental semester 2\projects\haris-hassnain miniproject 4\programming contest\main contest\codeblocks\auto_grader.h
+
+1560370392 source:c:\users\hp\desktop\semester 2\programming fundamentals\programming fundamental semester 2\projects\haris-hassnain miniproject 4\programming contest\main contest\codeblocks\tasks.c
+	<stdio.h>
+	<stdlib.h>
+	"tasks.h"
+
